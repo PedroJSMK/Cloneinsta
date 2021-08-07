@@ -1,0 +1,4 @@
+#Sun Jul 25 11:47:01 BRT 2021
+base.0=/Users/pedrokanagusto/Desktop/curso android-native/lambe/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/pedrokanagusto/Desktop/curso android-native/lambe/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

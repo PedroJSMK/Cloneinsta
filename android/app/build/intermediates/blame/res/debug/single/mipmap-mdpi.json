@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/pedrokanagusto/Desktop/curso android-native/lambe/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/pedrokanagusto/Desktop/curso android-native/lambe/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/pedrokanagusto/Desktop/curso android-native/lambe/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/pedrokanagusto/Desktop/curso android-native/lambe/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pedrokanagusto/Desktop/curso-react-native-master/lambe/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/pedrokanagusto/Desktop/curso-react-native-master/lambe/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/pedrokanagusto/Desktop/curso-react-native-master/lambe/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/pedrokanagusto/Desktop/curso-react-native-master/lambe/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

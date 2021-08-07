@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/pedrokanagusto/Desktop/curso android-native/lambe/android/app/build/intermediates/res/merged/debug/layout-v26/abc_screen_toolbar.xml",
+        "source": "/Users/pedrokanagusto/Desktop/curso android-native/lambe/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/pedrokanagusto/Desktop/curso-react-native-master/lambe/android/app/build/intermediates/res/merged/debug/layout-v26/abc_screen_toolbar.xml",
+        "source": "/Users/pedrokanagusto/Desktop/curso-react-native-master/lambe/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/layout-v26/abc_screen_toolbar.xml"
+    }
+]

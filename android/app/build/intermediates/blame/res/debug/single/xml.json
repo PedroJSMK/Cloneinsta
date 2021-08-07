@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/pedrokanagusto/Desktop/curso android-native/lambe/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/pedrokanagusto/Desktop/curso android-native/lambe/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.56.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/pedrokanagusto/Desktop/curso-react-native-master/lambe/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/pedrokanagusto/Desktop/curso-react-native-master/lambe/android/app/build/intermediates/exploded-aar/lambe/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/pedrokanagusto/Desktop/curso-react-native-master/lambe/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/pedrokanagusto/Desktop/curso-react-native-master/lambe/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.56.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/pedrokanagusto/Desktop/curso android-native/lambe/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/pedrokanagusto/Desktop/curso android-native/lambe/android/app/build/intermediates/exploded-aar/lambe/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    }
+]
